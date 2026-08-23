@@ -3,10 +3,12 @@ class Solution {
         int count = 0;
 
         for(int row = 0; row <= grid.length - 1; row++){
-            for(int col = 0; col <= grid[row].length - 1; col++){
+            for(int col = grid[row].length - 1; col >=0; col--){
 
                 if(grid[row][col] < 0){
                     count++;
+                }else{
+                    break;
                 }
             }
         }
