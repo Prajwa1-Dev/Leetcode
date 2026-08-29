@@ -2,6 +2,7 @@ class Solution {
     public int findDuplicate(int[] nums) {
         
         int i=0;
+        
         while(i < nums.length){
         int current = nums[i];
         if(nums[i] != nums[current]){
@@ -12,6 +13,7 @@ class Solution {
         }
         }
         return nums[i];
+
     }
 
     void swap(int[]  nums, int f, int l){
