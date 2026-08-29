@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
