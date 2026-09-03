@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,4 +144,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1859-sorting-the-sentence](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
