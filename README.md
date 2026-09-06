@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bubble Sort
 |  |
 | ------- |
