@@ -17,9 +17,7 @@ class Solution {
         }
      }
 
-     if(h == 0 && v == 0){
-        return true;
-     }
-     return false;
+    
+     return h == 0 && v == 0;
     }
 }
