@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1871-jump-game-vii](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1871-jump-game-vii) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Prajwa1-Dev/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1871-jump-game-vii](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1871-jump-game-vii) |
 ## Greedy
 |  |
 | ------- |
@@ -151,9 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Prajwa1-Dev/Leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
